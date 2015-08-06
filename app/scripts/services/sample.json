@@ -1,0 +1,42 @@
+[{
+    "id": "1",
+    "firstname": "Nguyen Sy",
+    "lastname": "Thanh Son",
+    "username": "thanhson1085"
+},
+{
+    "id": "2",
+    "firstname": "Mark",
+    "lastname": "Otto",
+    "username": "mdo"
+},
+{
+    "id": "3",
+    "firstname": "Athony",
+    "lastname": "Vinc",
+    "username": "anthony"
+},
+{
+    "id": "4",
+    "firstname": "Do",
+    "lastname": "Minh Khai",
+    "username": "minhkhai"
+},
+{
+    "id": "5",
+    "firstname": "Ba Ngoc",
+    "lastname": "Cuong",
+    "username": "bangoccuong"
+},
+{
+    "id": "6",
+    "firstname": "Adam",
+    "lastname": "East",
+    "username": "adam"
+},
+{
+    "id": "7",
+    "firstname": "Larry",
+    "lastname": "Bird",
+    "username": "larry"
+}]
